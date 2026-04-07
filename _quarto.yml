@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Compassionate Pathways"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: services.qmd
+        text: Services
+      - href: how-i-work.qmd
+        text: How I Work
+      - href: pricing.qmd
+        text: Pricing
+      - href: blog.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    toc: false
