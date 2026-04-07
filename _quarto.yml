@@ -5,6 +5,9 @@ project:
 website:
   title: "Compassionate Pathways"
   site-url: "https://www.compassionate-pathways.nz"
+  description: "Compassionate counselling for healing, clarity, and change."
+  favicon: "images/favicon-placeholder.png"
+  open-graph: true
   draft-mode: visible
   navbar:
     background: "#4B2E83"

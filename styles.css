@@ -310,3 +310,10 @@ img {
     width: min(88%, 360px);
   }
 }
+
+a.btn-cp-primary:focus-visible,
+a.btn-cp-secondary:focus-visible,
+a:focus-visible {
+  outline: 3px solid #1F6F5F;
+  outline-offset: 3px;
+}
