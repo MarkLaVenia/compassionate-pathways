@@ -5,4 +5,51 @@ draft: true
 
 # Contact
 
-This page will include contact details and next steps.
+::: {.section-intro}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+:::
+
+::: {.contact-grid}
+
+::: {.contact-card}
+### Email
+hello@compassionate-pathways.nz
+
+Placeholder for preferred contact method.
+:::
+
+::: {.contact-card}
+### Phone
+021 000 0000
+
+Placeholder business number.
+:::
+
+::: {.contact-card}
+### Location
+Christchurch / Online
+
+Placeholder delivery note.
+:::
+
+:::
+
+## Getting in touch
+
+::: {.panel-soft}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Placeholder response time: 1–2 business days.
+:::
+
+## Important note
+
+::: {.notice-soft}
+This is a placeholder note: if you or someone else is in immediate danger or crisis, please contact emergency services or a local crisis support line rather than using this form.
+:::
+
+::: {.cta-band}
+## A gentle first step
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+[Email Kris](mailto:hello@compassionate-pathways.nz){.btn-cp-primary}
+:::

@@ -4,8 +4,12 @@ project:
 
 website:
   title: "Compassionate Pathways"
+  site-url: "https://www.compassionate-pathways.nz"
   draft-mode: visible
   navbar:
+    background: "#4B2E83"
+    foreground: "#F7F3F0"
+    search: false
     left:
       - href: index.qmd
         text: Home
@@ -21,11 +25,25 @@ website:
         text: Blog
       - href: contact.qmd
         text: Contact
+  page-footer:
+    background: "#2E1F47"
+    foreground: "#F7F3F0"
+    border: false
+    left: "Compassionate Pathways"
+    center:
+      - text: "About"
+        href: about.qmd
+      - text: "Services"
+        href: services.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right: "Placeholder: hello@compassionate-pathways.nz"
 
 format:
   html:
+    theme: cosmo
+    toc: false
+    css: styles.css
     include-in-header:
       text: |
         <meta name="robots" content="noindex, nofollow">
-    theme: cosmo
-    toc: false

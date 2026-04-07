@@ -5,6 +5,45 @@ draft: true
 
 # About
 
-This page will introduce Kris, her background, and her approach.
+<div class="profile-photo">
+  <img src="/images/kris-lavenia.jpg" alt="Portrait of Kris LaVenia">
+  <div class="profile-label">Kris LaVenia</div>
+</div>
 
-![Kris LaVenia](/images/kris-lavenia.jpg){width="35%" fig-align="center" fig-alt="Portrait of Kris LaVenia"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## My approach
+
+::: {.card-grid}
+
+::: {.card-soft}
+### Warm and grounded
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+:::
+
+::: {.card-soft}
+### Relational and respectful
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+:::
+
+::: {.card-soft}
+### Trauma-informed
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+:::
+
+:::
+
+## Who I support
+
+- Lorem ipsum dolor sit amet
+- Consectetur adipiscing elit
+- Sed do eiusmod tempor incididunt
+- Ut labore et dolore magna aliqua
+
+::: {.cta-band}
+## Want to know whether this feels like the right fit?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+[Get in touch](/contact.html){.btn-cp-primary}
+:::

@@ -5,4 +5,75 @@ draft: true
 
 # How I Work
 
-This page will explain the counselling process and what clients can expect.
+::: {.section-intro}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+:::
+
+::: {.steps}
+
+::: {.step}
+::: {.step-number}
+1
+:::
+
+**Initial contact**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+:::
+
+::: {.step}
+::: {.step-number}
+2
+:::
+
+**First session**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+:::
+
+::: {.step}
+::: {.step-number}
+3
+:::
+
+**Ongoing work**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+:::
+
+:::
+
+## What you can expect
+
+::: {.card-grid}
+
+::: {.card-soft}
+### A calm space
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+:::
+
+::: {.card-soft}
+### Collaborative pace
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+:::
+
+::: {.card-soft}
+### Gentle structure
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+:::
+
+:::
+
+## A note about fit
+
+::: {.notice-soft}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
+:::
+
+::: {.cta-band}
+## Take the next step
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+[Contact Kris](/contact.html){.btn-cp-primary}
+:::

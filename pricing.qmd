@@ -5,4 +5,63 @@ draft: true
 
 # Pricing
 
-This page will describe session fees and payment information.
+::: {.section-intro}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+:::
+
+::: {.pricing-grid}
+
+::: {.price-card}
+### Introductory Call
+<div class="price-value">$00</div>
+
+- 15–20 minutes
+- Placeholder format
+- Placeholder note
+:::
+
+::: {.price-card}
+### Standard Session
+<div class="price-value">$160</div>
+
+- 50 minutes
+- Placeholder delivery mode
+- Placeholder payment note
+:::
+
+::: {.price-card}
+### Extended Session
+<div class="price-value">$220</div>
+
+- 80 minutes
+- Placeholder delivery mode
+- Placeholder payment note
+:::
+
+:::
+
+## Payment and cancellation
+
+::: {.split-two}
+
+::: {.panel-soft}
+### Payment
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+:::
+
+::: {.panel-soft}
+### Cancellation policy
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+:::
+
+:::
+
+::: {.cta-band}
+## Questions about fees?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+[Ask a question](/contact.html){.btn-cp-primary}
+:::

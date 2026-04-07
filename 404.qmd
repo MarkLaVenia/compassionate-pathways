@@ -1,0 +1,13 @@
+---
+title: "Page Not Found"
+draft: true
+---
+
+::: {.not-found}
+# 404
+
+The page you were looking for could not be found.
+
+[Return Home](/index.html){.btn-cp-primary}
+[Contact Kris](/contact.html){.btn-cp-secondary}
+:::

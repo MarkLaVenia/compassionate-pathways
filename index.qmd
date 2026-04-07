@@ -3,6 +3,116 @@ title: "Compassionate Pathways"
 draft: true
 ---
 
-# Welcome
+::: {.hero}
 
-A calm, compassionate space to support healing, growth, and wellbeing.
+::: {.hero-badge}
+CP
+:::
+
+# Compassionate counselling for healing, clarity, and change
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod, sapien nec varius faucibus, nibh dui convallis augue, non mattis justo velit at justo.
+
+::: {.button-row}
+[Book an Intro Call](/contact.html){.btn-cp-primary}
+[Learn More](/about.html){.btn-cp-secondary}
+:::
+
+:::
+
+## Welcome
+
+::: {.section-intro}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+:::
+
+## Services
+
+::: {.card-grid}
+
+::: {.card-soft}
+### Individual Counselling
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit.
+:::
+
+::: {.card-soft}
+### Relationship Support
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Excepteur sint occaecat cupidatat non proident.
+:::
+
+::: {.card-soft}
+### Trauma-Informed Practice
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sunt in culpa qui officia deserunt mollit anim.
+:::
+
+:::
+
+::: {.band}
+
+## How to Get Started
+
+::: {.steps}
+
+::: {.step}
+::: {.step-number}
+1
+:::
+
+**Make contact**
+
+Lorem ipsum dolor sit amet.
+:::
+
+::: {.step}
+::: {.step-number}
+2
+:::
+
+**Arrange a first session**
+
+Lorem ipsum dolor sit amet.
+:::
+
+::: {.step}
+::: {.step-number}
+3
+:::
+
+**Begin gently**
+
+Lorem ipsum dolor sit amet.
+:::
+
+:::
+
+:::
+
+## Meet Kris
+
+::: {.split-two}
+
+::: {}
+<div class="profile-photo">
+  <img src="/images/kris-lavenia.jpg" alt="Portrait of Kris LaVenia">
+  <div class="profile-label">Kris LaVenia</div>
+</div>
+:::
+
+::: {.panel-soft}
+### A calm and relational approach
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+[Read more about Kris](/about.html){.btn-cp-primary}
+:::
+
+:::
+
+::: {.cta-band}
+## Ready when you are
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel erat at nisl fringilla gravida.
+
+[Contact Kris](/contact.html){.btn-cp-primary}
+[Explore Services](/services.html){.btn-cp-secondary}
+:::

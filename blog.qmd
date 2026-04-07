@@ -1,8 +1,12 @@
 ---
 title: "Blog"
 draft: true
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  feed: false
 ---
 
-# Blog
-
-Articles and reflections will go here.
+A collection of reflections, resources, and thoughts on counselling, wellbeing, and personal growth.

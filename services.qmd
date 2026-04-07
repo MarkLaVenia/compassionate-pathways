@@ -5,4 +5,58 @@ draft: true
 
 # Services
 
-This page will outline the counselling services Kris offers.
+::: section-intro
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+:::
+
+:::::: card-grid
+::: card-soft
+### Individual Counselling
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
+:::
+
+::: card-soft
+### Relationship Support
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Excepteur sint occaecat cupidatat non proident.
+:::
+
+::: card-soft
+### Online Sessions
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+::::::
+
+## Support may include
+
+::::: split-two
+::: panel-soft
+### Areas of focus
+
+-   Lorem ipsum dolor sit amet
+-   Consectetur adipiscing elit
+-   Sed do eiusmod tempor
+-   Incididunt ut labore
+-   Dolore magna aliqua
+:::
+
+::: panel-soft
+### What sessions may involve
+
+-   Gentle conversation
+-   Reflective questions
+-   Practical strategies
+-   Space for processing
+-   Collaborative goal-setting
+:::
+:::::
+
+::: cta-band
+## Not sure where to start?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+[Book an Intro Call](/contact.html){.btn-cp-primary}
+:::

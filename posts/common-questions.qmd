@@ -1,0 +1,9 @@
+---
+title: "Common Questions About Counselling"
+date: 2026-04-09
+categories: [questions, counselling]
+description: "A second placeholder post for testing the blog layout."
+draft: true
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
