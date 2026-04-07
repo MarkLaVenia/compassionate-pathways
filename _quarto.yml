@@ -23,5 +23,8 @@ website:
 
 format:
   html:
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex, nofollow">
     theme: cosmo
     toc: false
