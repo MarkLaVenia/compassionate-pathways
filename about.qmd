@@ -6,3 +6,5 @@ draft: true
 # About
 
 This page will introduce Kris, her background, and her approach.
+
+![Kris LaVenia](/images/kris-lavenia.jpg){width="35%" fig-align="center" fig-alt="Portrait of Kris LaVenia"}
