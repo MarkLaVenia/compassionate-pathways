@@ -1,5 +1,6 @@
 ---
 title: "How I Work"
+draft: true
 ---
 
 # How I Work
