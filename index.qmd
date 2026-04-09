@@ -9,8 +9,6 @@ draft: true
   <img src="/images/favicon-placeholder.png" alt="Compassionate Pathways logo placeholder">
 </div>
 
-:::
-
 # Compassionate counselling for healing, clarity, and change
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod, sapien nec varius faucibus, nibh dui convallis augue, non mattis justo velit at justo.
