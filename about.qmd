@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: ""
 draft: true
 ---
 
@@ -10,7 +10,9 @@ draft: true
   <div class="profile-label">Kris LaVenia</div>
 </div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+At Compassionate Pathways Counselling, I offer a space where you can find warmth, connection, and renewal. My work is grounded in compassion, presence, and the belief that healing unfolds through relationship—both with ourselves and with others. I see counselling as a collaborative process, where we walk alongside one another as you explore your experiences, make sense of your story, and move toward meaningful change. I bring a background in clinical mental health counselling and school counselling, along with experience supporting adults in diverse contexts. My approach is informed by somatic therapy, particularly the Hakomi method, which honours the wisdom of the body in uncovering patterns and supporting transformation. I also integrate creative and embodied practices, inspired by my connection to nature and fibre arts. I often think of healing as a process of weaving—where the threads of experience, memory, and meaning can be gently explored, reworked, and reconnected over time. Whether through individual sessions or group work, my intention is to create a space where you feel seen, supported, and able to move forward in your own way.
+
+Grounded in connection, guided by compassion.
 
 ## My approach
 
@@ -18,32 +20,49 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 ::: {.card-soft}
 ### Warm and grounded
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+I aim to create a space that feels steady, welcoming, and at ease.
+
+We begin where you are, moving at a pace that feels right for you. By slowing down and bringing gentle awareness to the present moment, we can begin to build a sense of safety and grounding—an essential foundation for deeper exploration and healing.
+
 :::
 
 ::: {.card-soft}
 ### Relational and respectful
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Counselling is a collaborative and relational process.
+
+I hold deep respect for your experiences, your autonomy, and your inner wisdom. Rather than positioning myself as the expert, I work alongside you with curiosity and care, supporting you to explore what matters most and to find your own meaning and direction.
+
 :::
 
 ::: {.card-soft}
 ### Trauma-informed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+My approach is trauma-informed, meaning that your safety is always central to our work.
+
+We move gently and with awareness of how past experiences may continue to shape the present. There is no pressure to revisit anything before you are ready. Instead, we focus on building awareness, resources, and choice—supporting you to move toward healing in a way that feels safe and empowering.
+
 :::
 
 :::
 
 ## Who I support
 
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Sed do eiusmod tempor incididunt
-- Ut labore et dolore magna aliqua
+I work with older adolescents and adults who are:
+
+Feeling overwhelmed, emotionally stretched, or navigating ongoing stress
+Processing life transitions (e.g., school to work, university, career shifts, relocation)
+Experiencing grief and loss in its many forms—such as the loss of a person, relationship, identity, place, or sense of direction
+Seeking deeper self-understanding and connection with themselves
+Living with anxiety, low mood, or a sense of disconnection
+Exploring the impact of past experiences or trauma
+Wanting to feel more grounded, present, and regulated in daily life
+Navigating relationship challenges (with family, peers, or partners)
+Engaged in caring roles or professions and experiencing emotional fatigue or burnout
+Drawn to reflective, embodied, or creative approaches to healing
 
 ::: {.cta-band}
 ## Want to know whether this feels like the right fit?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Take the next step to explore whether working together feels supportive for you.
 
 [Get in touch](/contact.html){.btn-cp-primary}
 :::
