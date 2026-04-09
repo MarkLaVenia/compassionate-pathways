@@ -1,5 +1,7 @@
 ---
-title: "Contact"
+title: ""
+pagetitle: "Contact"
+body-classes: top-page
 draft: true
 ---
 

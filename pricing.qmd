@@ -1,5 +1,7 @@
 ---
-title: "Pricing"
+title: ""
+pagetitle: "Pricing"
+body-classes: top-page
 draft: true
 ---
 

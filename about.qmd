@@ -1,5 +1,7 @@
 ---
 title: ""
+pagetitle: "About"
+body-classes: top-page
 draft: true
 ---
 
@@ -12,7 +14,8 @@ draft: true
 
 At Compassionate Pathways Counselling, I offer a space where you can find warmth, connection, and renewal. My work is grounded in compassion, presence, and the belief that healing unfolds through relationship—both with ourselves and with others. I see counselling as a collaborative process, where we walk alongside one another as you explore your experiences, make sense of your story, and move toward meaningful change. I bring a background in clinical mental health counselling and school counselling, along with experience supporting adults in diverse contexts. My approach is informed by somatic therapy, particularly the Hakomi method, which honours the wisdom of the body in uncovering patterns and supporting transformation. I also integrate creative and embodied practices, inspired by my connection to nature and fibre arts. I often think of healing as a process of weaving—where the threads of experience, memory, and meaning can be gently explored, reworked, and reconnected over time. Whether through individual sessions or group work, my intention is to create a space where you feel seen, supported, and able to move forward in your own way.
 
-Grounded in connection, guided by compassion.
+<p class="about-tagline-soft">Grounded in connection, guided by compassion.</p>
+
 
 ## My approach
 
@@ -48,16 +51,16 @@ We move gently and with awareness of how past experiences may continue to shape 
 
 I work with older adolescents and adults who are:
 
-Feeling overwhelmed, emotionally stretched, or navigating ongoing stress
-Processing life transitions (e.g., school to work, university, career shifts, relocation)
-Experiencing grief and loss in its many forms—such as the loss of a person, relationship, identity, place, or sense of direction
-Seeking deeper self-understanding and connection with themselves
-Living with anxiety, low mood, or a sense of disconnection
-Exploring the impact of past experiences or trauma
-Wanting to feel more grounded, present, and regulated in daily life
-Navigating relationship challenges (with family, peers, or partners)
-Engaged in caring roles or professions and experiencing emotional fatigue or burnout
-Drawn to reflective, embodied, or creative approaches to healing
+- Feeling overwhelmed, emotionally stretched, or navigating ongoing stress
+- Processing life transitions (e.g., school to work, university, career shifts, relocation)
+- Experiencing grief and loss in its many forms—such as the loss of a person, relationship, identity, place, or sense of direction
+- Seeking deeper self-understanding and connection with themselves
+- Living with anxiety, low mood, or a sense of disconnection
+- Exploring the impact of past experiences or trauma
+- Wanting to feel more grounded, present, and regulated in daily life
+- Navigating relationship challenges (with family, peers, or partners)
+- Engaged in caring roles or professions and experiencing emotional fatigue or burnout
+- Drawn to reflective, embodied, or creative approaches to healing
 
 ::: {.cta-band}
 ## Want to know whether this feels like the right fit?

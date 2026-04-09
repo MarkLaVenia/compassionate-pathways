@@ -1,5 +1,7 @@
 ---
-title: "How I Work"
+title: ""
+pagetitle: "How I Work"
+body-classes: top-page
 draft: true
 ---
 

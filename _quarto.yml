@@ -7,9 +7,9 @@ website:
   site-url: "https://www.compassionate-pathways.nz"
   description: "Compassionate counselling for healing, clarity, and change."
   favicon: "images/favicon-placeholder.png"
-  open-graph: true
-  draft-mode: visible
   navbar:
+    logo: "images/favicon-placeholder.png"
+    logo-alt: "Compassionate Pathways logo"
     background: "#4B2E83"
     foreground: "#F7F3F0"
     search: false

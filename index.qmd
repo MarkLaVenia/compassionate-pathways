@@ -5,9 +5,9 @@ draft: true
 
 ::: {.hero}
 
-::: {.hero-badge}
-CP
-:::
+<div class="hero-badge-image">
+  <img src="/images/favicon-placeholder.png" alt="Compassionate Pathways logo placeholder">
+</div>
 
 # Compassionate counselling for healing, clarity, and change
 

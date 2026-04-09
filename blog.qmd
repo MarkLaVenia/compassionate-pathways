@@ -1,5 +1,7 @@
 ---
-title: "Blog"
+title: ""
+pagetitle: "Blog"
+body-classes: top-page
 draft: true
 listing:
   contents: posts
