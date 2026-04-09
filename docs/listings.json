@@ -1,6 +1,9 @@
 [
   {
     "listing": "/blog.html",
-    "items": []
+    "items": [
+      "/posts/common-questions.html",
+      "/posts/welcome-to-the-blog.html"
+    ]
   }
 ]
